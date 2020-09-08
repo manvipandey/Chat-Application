@@ -1,0 +1,1 @@
+# A multi-client local server based chat application with emailing facitity.
